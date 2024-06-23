@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const branchController = require('../controllers/branch.controller');
 const authorize = require('../middleware/branch.middleware');
-const ROLES = require('../constants/roleConstants');
+const ROLES = require('../constants/roleConstants.js');
 
 router.get(
     '/branches', 
