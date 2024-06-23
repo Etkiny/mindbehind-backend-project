@@ -26,11 +26,11 @@ This project allows company owners to manage their branches. Owners can list and
 
 ### Use-Case Diagram
 
-![Use-Case Diagram](useCase.png)
+![Use-Case Diagram](diagrams/useCase.png)
 
 ### Database Diagram
 
-![Database Diagram](database.png)
+![Database Diagram](diagrams/database.png)
 
 ## Part 2: Setup
 
